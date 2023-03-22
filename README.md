@@ -57,6 +57,7 @@ https://www.slowempty.com/
 https://www.taskunrelated.com/
 https://www.somethingopen.com/
 https://www.everythingalwayseverywhere.com/
+https://www.crossdivisions.com/
 
 ## Clocks & Calendars
 https://perpetual.day/?plastic
@@ -69,3 +70,6 @@ https://www.bryanbraun.com/after-dark-css/all/messages2.html
 https://www.bryanbraun.com/after-dark-css/all/rainstorm.html
 https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html
 https://nullingthevoid.com/
+https://floatingqrcode.com/
+https://puginarug.com/
+http://ihasabucket.com/ (not animated whatsoever, but a classic that deserves a place on this list)

@@ -1,7 +1,7 @@
 # Websites for Screensavers
  A (seldom updated) collection of URLs to display data-driven visualizations, cool WebGL, or just plain goofy sites.
  
- Inspired by [https://github.com/liquidx/webviewscreensaver](https://github.com/agarrharr/awesome-macos-screensavers) (among many others).
+ Inspired by https://github.com/agarrharr/awesome-macos-screensavers (among many others).
  
  I've always loved screen savers, since my first Mac and the glory days of After Dark.  Newsmap.co.jp (RIP).  PlaneTracker.  Hint.fm/wind.  To name but a few.
  

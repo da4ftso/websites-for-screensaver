@@ -7,14 +7,32 @@
  
  To see the computer's subconscious.
  
-# Data-driven
+## Data-driven
 
-## weather
+### weather
+http://hint.fm/wind/
+https://www.windfinder.com/forecast/chicago_buoy
+https://www.sailflow.com/map#42.014,-87.519,9,18
+https://earth.nullschool.net/#current/wind/surface/level/orthographic=-93.23,34.05,1024/grid=on
 
-## astronomy
+### astronomy
 
-# WebGL
+## Maps
+http://www.transitchicago.com/diydisplay/?s1=41480&s2=41660&size=big&tto=n
 
-# Clocks & Calendars
+## WebGL
+https://alteredqualia.com/three/examples/webgl_pasta.html
+https://www.clicktorelease.com/code/polygon-shredder/#768
+https://webglsamples.org/electricflower/electricflower.html
 
-# fun
+## CSS/animation
+https://www.ifeelstrange.com/
+https://www.neogeocity.com/
+http://realtime.info/
+
+## Clocks & Calendars
+https://perpetual.day/?plastic
+http://fff.cmiscm.com/#!/section/flipclock
+
+## fun
+http://corndog.io/

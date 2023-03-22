@@ -9,6 +9,8 @@
  
  To use some cycles and some bandwidth to visualize data, or give your GPU a workout, or (hopefully) make you crack a smile.
  
+ These sites are chosen for their lack of interactivity - load it and let it run.
+ 
  All sites copyright their respective owners.  No endorsement is implied or offered for anything on this page, it is for reference only.
  
 ## .savers

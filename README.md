@@ -5,8 +5,13 @@
  
  They've long since outlived their original usefulness, but they can still be a chance to see/experience something only a desktop computer can render.
  
- To see the computer's subconscious.
+ To use some cycles and some bandwidth to visualize data, or give your GPU a workout, or (hopefully) make you crack a smile.
  
+ All sites copyright their respective owners.
+ 
+## .savers
+ While there were plenty of free and paid options pre-macOS Monterey, on Ventura and Apple Silicon, I prefer https://github.com/liquidx/webviewscreensaver.
+
 ## Data-driven
 
 ### weather
@@ -19,11 +24,16 @@ https://earth.nullschool.net/#current/wind/surface/level/orthographic=-93.23,34.
 
 ## Maps
 http://www.transitchicago.com/diydisplay/?s1=41480&s2=41660&size=big&tto=n
+https://randomstreetview.com/#slideshow
 
 ## WebGL
 https://alteredqualia.com/three/examples/webgl_pasta.html
 https://www.clicktorelease.com/code/polygon-shredder/#768
+https://mrdoob.com/lab/javascript/webgl/particles/magicdust.html
 https://webglsamples.org/electricflower/electricflower.html
+https://alteredqualia.com/three/examples/webgl_cubes.html
+http://webglsamples.org/aquarium/aquarium.html
+https://mrdoob.com/lab/javascript/webgl/clouds/
 
 ## CSS/animation
 https://www.ifeelstrange.com/
@@ -33,6 +43,7 @@ http://realtime.info/
 ## Clocks & Calendars
 https://perpetual.day/?plastic
 http://fff.cmiscm.com/#!/section/flipclock
+https://d-pixie.github.io/striped-clock/
 
 ## fun
 http://corndog.io/

@@ -93,35 +93,25 @@ https://www.everythingalwayseverywhere.com/
 
 https://www.crossdivisions.com/
 
-- Take any ShaderToy url, change 'view' to 'embed' and append with: ?gui=false&t=10&paused=false&muted=true
+### shadertoys 
+
+Take any ShaderToy url, change 'view' to 'embed' and append with: ?gui=false&t=10&paused=false&muted=true
 
 https://www.shadertoy.com/embed/Dt33z7?gui=false&t=10&paused=false&muted=true
+https://www.shadertoy.com/embed/Ms2SD1?gui=false&t=10&paused=false&muted=true
+https://www.shadertoy.com/embed/tlVGDt?gui=false&t=10&paused=false&muted=true
+https://www.shadertoy.com/embed/XtlSD7?gui=false&t=10&paused=false&muted=true
+https://www.shadertoy.com/embed/4dfGzs?gui=false&t=10&paused=false&muted=true
+https://www.shadertoy.com/embed/lsl3RH?gui=false&t=10&paused=false&muted=true
+https://www.shadertoy.com/embed/Msl3WH?gui=false&t=10&paused=false&muted=true
+https://www.shadertoy.com/embed/Xd2GR3?gui=false&t=10&paused=false&muted=true
+https://www.shadertoy.com/embed/lsl3RH?gui=false&t=10&paused=false&muted=true
+https://www.shadertoy.com/embed/7ds3zB?gui=false&t=10&paused=false&muted=true
+https://www.shadertoy.com/embed/4dl3zn?gui=false&t=10&paused=false&muted=true
+https://www.shadertoy.com/embed/MsjSW3?gui=false&t=10&paused=false&muted=true
+https://www.shadertoy.com/embed/MdSXzz?gui=false&t=10&paused=false&muted=true
+https://www.shadertoy.com/embed/XlcBRX?gui=false&t=10&paused=false&muted=true
 
-https://www.shadertoy.com/view/Ms2SD1
-
-https://www.shadertoy.com/view/tlVGDt
-
-https://www.shadertoy.com/view/XtlSD7
-
-https://www.shadertoy.com/view/4dfGzs
-
-https://www.shadertoy.com/view/lsl3RH
-
-https://www.shadertoy.com/view/Msl3WH
-
-https://www.shadertoy.com/view/Xd2GR3
-
-https://www.shadertoy.com/view/lsl3RH
-
-https://www.shadertoy.com/view/7ds3zB
-
-https://www.shadertoy.com/view/4dl3zn
-
-https://www.shadertoy.com/view/MsjSW3
-
-https://www.shadertoy.com/view/MdSXzz
-
-https://www.shadertoy.com/view/XlcBRX
 
 
 ### Clocks & Calendars

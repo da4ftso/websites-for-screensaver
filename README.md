@@ -93,6 +93,9 @@ https://www.everythingalwayseverywhere.com/
 
 https://www.crossdivisions.com/
 
+Take any ShaderToy url, change 'view' to 'embed and append with: ?gui=false&t=10&paused=false&muted=true
+https://www.shadertoy.com/embed/Dt33z7?gui=false&t=10&paused=false&muted=true
+
 
 ### Clocks & Calendars
 https://perpetual.day/?plastic

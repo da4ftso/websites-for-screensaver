@@ -125,6 +125,10 @@ https://www.shadertoy.com/embed/MdSXzz?gui=false&t=10&paused=false&muted=true
 
 https://www.shadertoy.com/embed/XlcBRX?gui=false&t=10&paused=false&muted=true
 
+https://www.shadertoy.com/embed/WtSfWK?gui=false&t=10&paused=false&muted=true
+
+https://www.shadertoy.com/embed/MsjSW3?gui=false&t=10&paused=false&muted=true
+
 
 
 ### Clocks & Calendars

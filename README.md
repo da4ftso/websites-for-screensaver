@@ -109,6 +109,20 @@ https://www.shadertoy.com/view/lsl3RH
 
 https://www.shadertoy.com/view/Msl3WH
 
+https://www.shadertoy.com/view/Xd2GR3
+
+https://www.shadertoy.com/view/lsl3RH
+
+https://www.shadertoy.com/view/7ds3zB
+
+https://www.shadertoy.com/view/4dl3zn
+
+https://www.shadertoy.com/view/MsjSW3
+
+https://www.shadertoy.com/view/MdSXzz
+
+https://www.shadertoy.com/view/XlcBRX
+
 
 ### Clocks & Calendars
 https://perpetual.day/?plastic

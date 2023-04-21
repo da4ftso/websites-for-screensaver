@@ -95,6 +95,12 @@ https://www.crossdivisions.com/
 
 Take any ShaderToy url, change 'view' to 'embed and append with: ?gui=false&t=10&paused=false&muted=true
 https://www.shadertoy.com/embed/Dt33z7?gui=false&t=10&paused=false&muted=true
+https://www.shadertoy.com/view/Ms2SD1
+https://www.shadertoy.com/view/tlVGDt
+https://www.shadertoy.com/view/XtlSD7
+https://www.shadertoy.com/view/4dfGzs
+https://www.shadertoy.com/view/lsl3RH
+https://www.shadertoy.com/view/Msl3WH
 
 
 ### Clocks & Calendars

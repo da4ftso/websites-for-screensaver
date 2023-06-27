@@ -17,6 +17,9 @@
  While there were plenty of free and paid options pre-macOS Monterey, on Ventura and Apple Silicon, I prefer https://github.com/liquidx/webviewscreensaver.
 
 ### weather & other maps
+
+https://firesmoke.ca/forecasts/current/
+
 http://hint.fm/wind/
 
 https://www.windfinder.com/forecast/chicago_buoy

@@ -68,6 +68,23 @@ https://mrdoob.com/lab/javascript/webgl/clouds/
 
 
 ### CSS/animation
+
+https://ykob.github.io/sketch-threejs/sketch/dna.html
+
+https://ykob.github.io/sketch-threejs/sketch/flow_field_5.html
+
+https://ykob.github.io/sketch-threejs/sketch/flow_field_4.html
+
+https://ykob.github.io/sketch-threejs/sketch/flow_field_3.html
+
+https://ykob.github.io/sketch-threejs/sketch/node.html
+
+https://ykob.github.io/sketch-threejs/sketch/blink.html
+
+https://ykob.github.io/sketch-threejs/sketch/particle.html
+
+https://threejs.org/examples/#webgl_camera_cinematic
+
 https://www.ifeelstrange.com/
 
 http://realtime.info/

@@ -20,7 +20,7 @@
 
 https://firesmoke.ca/forecasts/current/
 
-http //hint.fm/wind/ offline since March 2024 :-(
+[http://hint.fm/wind/]() offline since March 2024 :-(
 
 https://www.windfinder.com/forecast/chicago_buoy
 

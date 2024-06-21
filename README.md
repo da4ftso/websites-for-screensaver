@@ -28,7 +28,7 @@ https://www.sailflow.com/map#42.014,-87.519,9,18
 
 https://earth.nullschool.net/#current/wind/surface/level/orthographic=-93.23,34.05,1024/grid=on
 
-https://www.glerl.noaa.gov/res/glcfs/currents/
+[https://www.glerl.noaa.gov/res/glcfs/currents/](https://www.glerl.noaa.gov/res/glcfs/anim.php/?lake=mih&var=uv)
 
 https://www.tropicwx.com/
 
